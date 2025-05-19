@@ -1,0 +1,12 @@
+{
+  "name": "learn-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "https://github.com/PhanHuy97/learn-nodejs.git",
+  "author": "huy.phan <huy.phan@alta.com.vn>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
